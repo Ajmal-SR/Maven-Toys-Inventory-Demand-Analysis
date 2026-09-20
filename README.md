@@ -103,7 +103,7 @@ Inventory & Demand Metrics
    ↓
 Dashboard
 
-## 📌 Business Questions
+📌 Business Questions
 
 The analysis addresses the following business questions:
 
@@ -119,12 +119,9 @@ The analysis addresses the following business questions:
 10. Which stores have the lowest current inventory?
 11. Which product categories have the highest demand?
 12. How does current inventory compare with historical sales demand?
-
-## 📐 Key Metrics
-
-### Average Daily Demand
-
-
+    
+📐 Key Metrics
+Average Daily Demand
 Average Daily Demand =
 Total Units Sold ÷ Calendar Days
 
