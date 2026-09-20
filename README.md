@@ -166,6 +166,12 @@ A lower Days of Inventory value indicates tighter inventory coverage relative to
 | Total Products | 35 |
 | Total Stores | 50 |
 
+## 📥 Project File
+
+The complete Excel workbook is available for download:
+
+[Download Excel Workbook](https://github.com/Ajmal-SR/Maven-Toys-Inventory-Demand-Analysis/releases/download/v1.0/Maven.Toys.Inventory.and.Demand.Analysis.xlsx)
+
 ## 📊 Dashboard Visualizations
 
 The dashboard includes:
