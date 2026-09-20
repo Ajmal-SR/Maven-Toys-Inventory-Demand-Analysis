@@ -4,7 +4,7 @@ An advanced **Microsoft Excel business intelligence project** analyzing retail i
 
 ## 📊 Dashboard Preview
 
-![Maven Toys Inventory & Demand Analysis](images/dashboard.png)
+![Maven Toys Inventory & Demand Analysis]([images/dashboard.png](https://github.com/Ajmal-SR/Maven-Toys-Inventory-Demand-Analysis/blob/89a057791fcc0721b2613cb4533439fb538ffdc5/Maven%20Toys%20Inventory%20and%20Demand%20Analysis%20Dashboard.png)
 
 ## 🎯 Project Objective
 
