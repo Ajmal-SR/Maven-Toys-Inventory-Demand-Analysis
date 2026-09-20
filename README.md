@@ -88,7 +88,7 @@ The project uses the **Maven Toys Mexico Toy Sales** dataset.
 
 ## 🔄 Analysis Workflow
 
-```text
+
 Raw Data
    ↓
 Power Query Cleaning
@@ -124,7 +124,7 @@ The analysis addresses the following business questions:
 
 ### Average Daily Demand
 
-```text
+
 Average Daily Demand =
 Total Units Sold ÷ Calendar Days
 
